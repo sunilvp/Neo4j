@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Neo4jLibrary">
+    <CLASSES>
+      <root url="file://C:/Softwares/Neo4j drivers/neo4j-community-3.0.6/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/neo4j-graphdb-api-3.0.6-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Softwares/Neo4j drivers/neo4j-community-3.0.6/lib" recursive="false" />
+  </library>
+</component>
